@@ -1,3 +1,4 @@
+//
 import http from 'http';
 import { config } from 'dotenv';
 import { DATABASE } from '#database';
